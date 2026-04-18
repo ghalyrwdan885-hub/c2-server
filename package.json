@@ -1,0 +1,13 @@
+{
+  "name": "c2-server",
+  "version": "1.0.0",
+  "description": "Telegram C2 Server for Android Control",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "node-telegram-bot-api": "^0.61.0"
+  }
+}
