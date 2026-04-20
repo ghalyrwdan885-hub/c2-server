@@ -1,7 +1,7 @@
 const express = require('express');
 const TelegramBot = require('node-telegram-bot-api');
 
-const BOT_TOKEN = '7604669338:AAF-Bor_OJ2nHuP3H_-7E8QXVptnTeqFEUA';
+const BOT_TOKEN = '8543353831:AAH9KouwWskMZPYbNN0OXPBCKewpRZNxWyI';
 const app = express();
 const PORT = process.env.PORT || 3000;
 
